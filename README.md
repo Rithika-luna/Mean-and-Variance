@@ -48,7 +48,7 @@ https://github.com/pavivengat787-sys/Mean-and-Variance
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 https://github.com/pavivengat787-sys/Mean-and-Variance
 # Program :
-***
+```
 
 
 import numpy as np
@@ -102,7 +102,7 @@ print(f"The Variance of arrival from feeder is {var:.3f}")
 
 print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
 
-***
+```
 
 
 
