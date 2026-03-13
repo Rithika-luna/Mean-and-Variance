@@ -100,6 +100,7 @@ print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
 # Results :
 
 
+
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 
 
@@ -112,4 +113,4 @@ The mean and variance of arrivals of objects from feeder using probability distr
 
 
 
-....
+...
