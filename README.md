@@ -21,7 +21,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 ![image](https://user-images.githubusercontent.com/103921593/192938695-99fedc01-34d5-4d36-84df-5880e766ed0c.png)
 
-
 # Procedure :
 
 1. Construct frequency distribution for the data
@@ -48,8 +47,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ```
-
-
 
 import numpy as np
 L = [int(i) for i in input("Enter arrival data: ").split()]
@@ -81,7 +78,6 @@ print(f"The Variance of arrival from feeder is {var:.3f}")
 print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
 
 
-
 ```
 # Output : 
 
@@ -89,8 +85,6 @@ print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
 <img width="1460" height="858" alt="{69AA1D26-E5E5-45D4-9392-9653CE2D2892}" src="https://github.com/user-attachments/assets/fda8be24-43b5-43a5-a802-d1a3d72ac586" />
 
 # Results :
-
-
 
 
 
